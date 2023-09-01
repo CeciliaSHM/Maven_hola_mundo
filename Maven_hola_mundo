@@ -1,0 +1,10 @@
+/**
+ *
+ * @author Hernández Martínez Cecilia Sayuri
+ */
+public class Maven_hola_mundo {
+
+    public static void main(String[] args) {
+        System.out.println("Hola mundo, práctica 1");
+    }
+}
